@@ -1,9 +1,12 @@
 # chelsea-test-repo
-## Name
+## Name (Different fonts/styles)
 Chelsea Candice
 **Chelsea Candice**
 _Chelsea Candice_
 ~~Chelsea Candice~~
+**Chelsea _Candice_**
+<sub>This is a subscript</sub>
+> Test: This is a quote text
 
 ## Surname
 Valentyn
