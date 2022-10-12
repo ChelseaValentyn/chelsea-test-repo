@@ -29,6 +29,9 @@ South Africa
 ## Team
 DevOps
 
+## Colours
+The background color should be `#ffffff` for light mode and `#0d1117` for dark mode.
+
 ## Learning material
 ### Website:
 Video link: [Git and Github Crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) <br>
