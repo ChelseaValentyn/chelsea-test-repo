@@ -1,5 +1,6 @@
 # chelsea-test-repo
 ## Name (Different fonts/styles)
+### In different fonts/styles
 Chelsea Candice <br>
 **Chelsea Candice** <br>
 _Chelsea Candice_ <br>
