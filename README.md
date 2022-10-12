@@ -21,6 +21,9 @@ Cape Town
 ### City:
 South Africa
 
+## Team
+DevOps
+
 ## Learning material
 ### Website:
 Video link: [Git and Github Crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) <br>
