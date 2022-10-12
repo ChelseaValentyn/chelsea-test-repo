@@ -6,7 +6,7 @@ Chelsea Candice <br>
 _Chelsea Candice_ <br>
 ~~Chelsea Candice~~ <br>
 **Chelsea _Candice_** <br>
-<sub>This is a subscript</sub> <br>
+<sub>Test: This is a subscript</sub> <br>
 > Test: This is a quote text <br>
 
 ## Surname
