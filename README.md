@@ -23,5 +23,5 @@ South Africa
 
 ## Learning material
 ### Website:
-[Git and Github Crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) <br>
-[GitHub Page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
+Video link: [Git and Github Crash course](https://www.youtube.com/watch?v=RGOj5yH7evk) <br>
+Tutrial link: [GitHub Page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
