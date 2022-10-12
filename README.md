@@ -15,11 +15,12 @@ Valentyn
 25
 
 ## Region
-### Counrty:
+### Country:
 Cape Town
 ### City:
 South Africa
 
 ## Learning material
 ### Website:
+[Git and Github Crash course](https://www.youtube.com/watch?v=RGOj5yH7evk)
 [GitHub Page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
