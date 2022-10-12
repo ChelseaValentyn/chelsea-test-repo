@@ -21,6 +21,11 @@ Cape Town
 ### City:
 South Africa
 
+## Hobbies
+1. Swimming
+2. Hiking
+3. Painting
+
 ## Team
 DevOps
 
